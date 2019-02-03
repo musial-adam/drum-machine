@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(white, 0.6),
+      rgba(grey, 0.6)
+    ),
+    url('./assets/drums2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
